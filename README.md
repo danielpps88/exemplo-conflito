@@ -1,3 +1,3 @@
 # exemplo-conflito
 
-passoal 1 estave aqui.
+pessoa 2 esteve aqui.
